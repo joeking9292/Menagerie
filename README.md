@@ -8,9 +8,9 @@ You have to have at least two critters that are either InchWorms or critters of 
 
 The user controls the cannon with three different keys:
 
-i - shoots a cannon (if there are any left)
-h - moves the cannon in it's current direction
-g - reverses the current direction of the cannon
+i - shoots a cannon (if there are any left) <br />
+h - moves the cannon in it's current direction <br />
+g - reverses the current direction of the cannon <br />
 
 
 # Menagerie.cpp:
@@ -21,6 +21,8 @@ compositeScene - compositing  all the critters renditions onto the scene
 shoot - shoot a cannonball from the cannon
 
 # Components:
-Critters: InchWorm.h InchWorm2.cpp Pacer.h Pacer.cpp Cannon.h Cannon.cpp Cannonball.h Cannonball.cpp
-Display: Terminal.h Terminal.cpp adt/Display.h PixelMatrix.h PixelMatrix.cpp RGB.h RBG.cpp
-Game: Menagerie.h Menagerie2.cpp p1.cpp
+Critters: InchWorm.h InchWorm2.cpp Pacer.h Pacer.cpp Cannon.h Cannon.cpp Cannonball.h Cannonball.cpp <br />
+Display: Terminal.h Terminal.cpp adt/Display.h PixelMatrix.h PixelMatrix.cpp RGB.h RBG.cpp <br />
+Game: Menagerie.h Menagerie2.cpp p1.cpp <br />
+
+This assignment was assigned by Professor Kevin Lundeen at Seattle University.
